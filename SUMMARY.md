@@ -32,6 +32,7 @@
 	- [Python中的assert语句](./Python Common/Python中的assert语句.md)
     - [Python新增的secrets模块](./Python Common/Python新增的secrets模块.md)
     - [Python中的lambda表达式](./Python Common/Python中的lambda表达式.md)
+    - [我是如何修复 Python 3.7 中一个非常老的 GIL 竞争条件的](./Python Common/python37-gil-change.md)
 ## Web框架
 - [Django](./Django/README.md)
 	- [1.9](./Django/1.9/README.md) Django 1.9版本官方文档
@@ -206,6 +207,14 @@
 	- [Issue 329](./Python Weekly/Python_Weekly_Issue_329.md)
 	- [Issue 330](./Python Weekly/Python_Weekly_Issue_330.md)
 	- [Issue 331](./Python Weekly/Python_Weekly_Issue_331.md)
+	- [Issue 332](./Python Weekly/Python_Weekly_Issue_332.md)
+	- [Issue 333](./Python Weekly/Python_Weekly_Issue_333.md)
+	- [Issue 334](./Python Weekly/Python_Weekly_Issue_334.md)
+	- [Issue 335](./Python Weekly/Python_Weekly_Issue_335.md)
+	- [Issue 336](./Python Weekly/Python_Weekly_Issue_336.md)
+	- [Issue 337](./Python Weekly/Python_Weekly_Issue_337.md)
+	- [Issue 338](./Python Weekly/Python_Weekly_Issue_338.md)
+	- [Issue 339](./Python Weekly/Python_Weekly_Issue_339.md)
 - Pycoder's Weekly    
 	* 中文版：[蟒周刊](http://weekly.pychina.org/)
 
